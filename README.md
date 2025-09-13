@@ -10,8 +10,8 @@ Registro de participantes con nombre
 
 Asignación aleatoria de amigo secreto.
 
-Interfaz sencilla para agregar y listar participantes.
+Interfaz sencilla para agregar, listar y eliminar participantes.
 
-Lenguaje: JavaScript 
+Lenguaje: HTML, CSS, JavaScript 
 
 Schwartzman Andy
