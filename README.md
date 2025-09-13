@@ -13,3 +13,5 @@ Asignación aleatoria de amigo secreto.
 Interfaz sencilla para agregar y listar participantes.
 
 Lenguaje: JavaScript 
+
+Schwartzman Andy
