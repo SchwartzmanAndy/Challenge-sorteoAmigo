@@ -6,16 +6,10 @@ Este proyecto consiste en un programa para organizar un amigo secreto de manera 
 
 Funcionalidades
 
-Registro de participantes con nombre y correo electrónico.
+Registro de participantes con nombre
 
 Asignación aleatoria de amigo secreto.
 
-Evita que alguien se asigne a sí mismo.
-
-Envío opcional de notificaciones por correo (si aplica).
-
 Interfaz sencilla para agregar y listar participantes.
-
-Tecnologías
 
 Lenguaje: JavaScript 
